@@ -85,6 +85,8 @@ smart_ecommerce/
 │
 └── .gitignore
 
+
+
 ## Database
 
 The application uses **MySQL** as the primary database.
