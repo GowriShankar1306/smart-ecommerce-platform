@@ -1,0 +1,9 @@
+.env
+
+django_backend/django_venv/
+fastapi_backend/fastapi_venv/
+
+__pycache__/
+*.pyc
+
+*.sqlite3
